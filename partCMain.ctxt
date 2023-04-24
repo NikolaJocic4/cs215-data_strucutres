@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=partCMain
+comment0.text=\r\n\ Kitsos\ and\ the\ Suicides.\r\n\ \r\n\ Some\ time\ ago\ in\ a\ small\ Greek\ village,\ the\ inhabitants\ decided\ that\ there\ was\ no\ escape\ from\ the\ Romans,\ \r\nwhich\ were\ a\ threat\ that\ was\ nearing\ them.\ The\ inhabitants\ settled\ on\ committing\ suicide,\ except\ one\ person,\ \r\nKitsos.\ He\ instructed\ that\ the\ inhabitants\ should\ at\ least\ commit\ their\ suicide\ in\ a\ fashionable\ manner,\ \r\nso\ he\ suggested\ that\ they\ do\ them\ in\ an\ interval\ (Every\ second,\ third,\ etc..).\ \r\n\r\nThis\ program\ aims\ to,\ through\ a\ carefully\ constructed\ algorithm,\ determine\ the\ best\ position,\ \r\nKitsos\ should\ place\ himself\ at,\ so\ that\ he\ is\ the\ last\ man\ standing,\ meaning\ there\ will\ not\ be\ anybody\ \r\nto\ witness\ him\ not\ commit\ a\ suicide.\r\n\ \r\n\r\n\ @Nikola\ Jocic\ Student\ ID\:\ 20200041\ email\:\ 20200041@student.act.edu\r\n\ @version\ 1.01\ Date\:\ 23/11/2021\r\n
+comment1.params=
+comment1.target=partCMain()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

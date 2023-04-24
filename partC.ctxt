@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=partC
+comment0.text=\r\n\ Kitsos\ and\ the\ Suicides.\r\n\ \r\n\ Some\ time\ ago\ in\ a\ small\ Greek\ village,\ the\ inhabitants\ decided\ that\ there\ was\ no\ escape\ from\ the\ Romans,\ \r\nwhich\ were\ a\ threat\ that\ was\ nearing\ them.\ The\ inhabitants\ settled\ on\ committing\ suicide,\ except\ one\ person,\ \r\nKitsos.\ He\ instructed\ that\ the\ inhabitants\ should\ at\ least\ commit\ their\ suicide\ in\ a\ fashionable\ manner,\ \r\nso\ he\ suggested\ that\ they\ do\ them\ in\ an\ interval\ (Every\ second,\ third,\ etc..).\ \r\n\r\nThis\ program\ aims\ to,\ through\ a\ carefully\ constructed\ algorithm,\ determine\ the\ best\ position,\ \r\nKitsos\ should\ place\ himself\ at,\ so\ that\ he\ is\ the\ last\ man\ standing,\ meaning\ there\ will\ not\ be\ anybody\ \r\nto\ witness\ him\ not\ commit\ a\ suicide.\r\n\ \r\n\r\n\ @Nikola\ Jocic\ Student\ ID\:\ 20200041\ email\:\ 20200041@student.act.edu\r\n\ @version\ 1.01\ Date\:\ 23/11/2021\r\n
+comment1.params=size
+comment1.target=partC(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OrdArray\r\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isFull()
+comment4.params=item
+comment4.target=void\ insert(java.lang.String)
+comment5.params=
+comment5.target=void\ fillRandom()
+comment6.params=item
+comment6.target=int\ find(java.lang.String)
+comment7.params=item
+comment7.target=void\ delete(java.lang.String)
+comment8.params=suicideNumber
+comment8.target=int\ safeSpot(int)
+comment9.params=suicideNumber
+comment9.target=void\ kitsos(int)
+numComments=10
